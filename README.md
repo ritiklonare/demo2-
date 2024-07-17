@@ -1,2 +1,2 @@
 # demo2-
-this is my first repository <br>authore - ritik lonare
+this is my first repository <br>authore - ritik engineer 
